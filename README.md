@@ -18,8 +18,13 @@ https://jagydas.github.io/work-day-scheduler/
 **Technology Used**
 
 HTML
+
 CSS
+
 jQuery
+
 Moment js
+
 javaScript
+
 Bootstrap
